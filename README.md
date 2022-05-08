@@ -20,6 +20,9 @@ Discord上でタイマーを動かすBot。
 DiscordBot『SimpleTimer』のChrome拡張機能。  
 Discord上のタイマーをChromeの拡張機能から確認ができる。  
 2022年に開発。
+#### [BCDice-KT](https://bcdice-kt.simpletimer.dev/)
+[BCDice]( https://github.com/bcdice/BCDice )をKotlinやJavaなどで使うためのライブラリ。  
+2022年に開発。
 
 ## LINKS
 Discord: じゃんまき#1111  
