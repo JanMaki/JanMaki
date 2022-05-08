@@ -2,7 +2,7 @@ KotlinやJavaを使って、作りたいものを作ってる人
 
 ## PROJECTS
 ### Minecraft
-#### [Coretol](https://coretol.net/)
+#### [Coretol](https://matchatb.wixsite.com/coretol)
 MinecraftのRPGマルチサーバー。  
 2018年からDeveloperとして開発に参加。
 #### [AntiTherdPerson](https://www.spigotmc.org/resources/1-8-x%EF%BD%9E1-16-1-antithirdperson.70418/)
