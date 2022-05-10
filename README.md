@@ -16,7 +16,7 @@ Minecraftのユーザー情報を検索するBot。
 Discord上でタイマーを動かすBot。  
 2020年から運用中。
 ### その他
-#### [SimpleTimer-Extensions](https://chromestore.extensions.simpletimer.dev)
+#### [SimpleTimer-Extensions](https://chromestore.ext.simpletimer.dev)
 DiscordBot『SimpleTimer』のChrome拡張機能。  
 Discord上のタイマーをChromeの拡張機能から確認ができる。  
 2022年に開発。
