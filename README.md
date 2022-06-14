@@ -22,7 +22,10 @@ Discord上のタイマーをChromeの拡張機能から確認ができる。
 2022年に開発。
 #### [BCDice-KT](https://bcdice-kt.simpletimer.dev/)
 [BCDice]( https://github.com/bcdice/BCDice )をKotlinやJavaなどで使うためのライブラリ。  
-2022年に開発。
+2022年に開発。  
+#### [マダミス新着出品ツイートBot](https://twitter.com/MMNoticeBot)  
+Boothにて『マーダーミステリー』のタグで出品された商品をツイートするTwitterのBot。  
+2022年から運用中。  
 
 ## LINKS
 Discord: じゃんまき#1111  
