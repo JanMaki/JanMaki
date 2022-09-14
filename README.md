@@ -1,6 +1,16 @@
 KotlinやJavaを使って、作りたいものを作ってる人
 
 ## PROJECTS
+### VRChat Assets
+#### リアルタイム画像更新システム
+ワールド内の広告などの画像をリアルタイムに変更できるようにするワールド向けのギミック。  
+GitHub上のpngファイルをmp4に変換する[PNG2MP4](https://github.com/JanMaki/PNG2MP4)と、ワールドで動画を再生する[SimpleVideoPlayer](https://github.com/JanMaki/SimpleVideoPlayer)のセット。
+#### [MuteArea](https://github.com/JanMaki/MuteArea)
+範囲内にいる人のマイクをミュートにするワールド向けのアセット。
+#### [PortalBlockArea](https://github.com/JanMaki/PortalBlockArea)
+範囲内でポータルを置けなくするワールド向けのアセット。
+#### [UndrawabaleArea](https://github.com/JanMaki/UndrawableArea)
+範囲内でQvペンを書けなくするワールド向けのアセット。
 ### Minecraft
 #### [Coretol](https://matchatb.wixsite.com/coretol)
 MinecraftのRPGマルチサーバー。  
