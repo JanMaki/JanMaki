@@ -36,6 +36,9 @@ Discord上のタイマーをChromeの拡張機能から確認ができる。
 #### [マダミス新着出品ツイートBot](https://twitter.com/MMNoticeBot)  
 Boothにて『マーダーミステリー』のタグで出品された商品をツイートするTwitterのBot。  
 2022年から運用中。  
+#### [GyazoApi-Kt](https://github.com/JanMaki/GyazoApi-Kt)  
+[GyazoのAPI](https://gyazo.com/api/docs?lang=ja)をKotlinから使うためのライブラリ。  
+2022に開発  
 
 ## LINKS
 Discord: じゃんまき#1111  
