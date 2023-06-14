@@ -41,7 +41,7 @@ Boothにて『マーダーミステリー』のタグで出品された商品を
 2022に開発  
 
 ## LINKS
-Discord: じゃんまき#1111  
+Discord: janmaki（旧: じゃんまき#1111）  
 Twitter: [JanuaryMaki](https://twitter.com/JanuaryMaki)  
 Mail: [mail@柴.dev](mailto:mail@柴.dev)
 
